@@ -1,0 +1,1 @@
+person = ["Pham Minh Duc", 19, "Ha Noi", True, 7]
